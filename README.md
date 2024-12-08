@@ -32,5 +32,5 @@
 - **BEM (Nested):** методология для именования классов CSS.
 - **Git:** система контроля версий.
 
- https://WladislawFilatew.github.io/YandexLab
+ https://LizochkaSpring.github.io/YandexLab
   
